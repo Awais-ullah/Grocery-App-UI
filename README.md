@@ -80,14 +80,12 @@ flutter run
 
 ## 📸 Screenshots
 
-Add your application screenshots here:
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/31f566de-b1ef-4502-a722-2880a392ba49" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/43151212-b9f8-45d3-89c1-49f0e36deb88" />
+![Uploading image.png…]()
 
-```markdown
-![Home Screen](screenshots/home.png)
-![Categories Screen](screenshots/categories.png)
-![Product Details](screenshots/product_details.png)
-![Cart Screen](screenshots/cart.png)
-![Profile Screen](screenshots/profile.png)
+
+
 ```
 
 ## 🎯 Purpose
